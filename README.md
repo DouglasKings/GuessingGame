@@ -1,2 +1,3 @@
 # GuessingGame
  This is a C program that simulates a simple guessing game.
+ Write a C program that simulates a simple guessing game. The program should generate a random number between 1 and 100, and then prompt the user to guess the number. The user should have a maximum of 6 attempts to guess the correct number. If the user's guess is higher than the generated number, the program should display "Too high, try again!" and decrement the number of attempts left. If the user's guess is lower than the generated number, the program should display "Too low, try again!" and decrement the number of attempts left. If the user guesses the correct number, the program should display "Congratulations! You won!" and end the game.
